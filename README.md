@@ -1,2 +1,2 @@
-# localized-network
-A localized network with server capabilities and database handling.
+# l-network
+A flask server that can do database and client-server connections.
